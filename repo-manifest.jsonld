@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-poetry/semver/commit/7ef69b00f6bd63539eb01ea8a947ca99a11fde93",
       "git:hexsha": "7ef69b00f6bd63539eb01ea8a947ca99a11fde93",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T07:59:48.575231+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-poetry/semver/commit/adbe427623fef8b84a8fbc1639f046c9b70248d5",
