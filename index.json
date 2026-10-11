@@ -1,0 +1,11 @@
+{
+  "org": "python-poetry",
+  "repo": "semver",
+  "versions": [
+    {
+      "commit": "7ef69b00f6bd63539eb01ea8a947ca99a11fde93",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:59:48.575709+00:00"
+    }
+  ]
+}
